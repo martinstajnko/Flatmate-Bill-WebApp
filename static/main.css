@@ -1,0 +1,25 @@
+h2 {
+    color: darkgrey;
+    text-align: center;
+    font-size: 35px;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 4px 4px;
+    margin: 10px 0;
+}
+
+input[type=submit]{
+    width: 100%;
+    background-color: oldlace;
+    color: navy;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 6px;
+}
+
+body {
+    background-color: ghostwhite;
+    padding: 20px;
+}
